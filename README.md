@@ -1,2 +1,2 @@
 # Neural-Networks-from-Scratch
-A hands-on, implementation-first repository building neural networks and deep learning foundational blocks from scratch. Inspired by Andrej Karpathy's Zero to Hero.
+This repository contains my step-by-step implementation of foundational neural networks from scratch, following Andrej Karpathy's Zero to Hero series. Every line of code is written manually, thoroughly commented, and debugged to deeply understand the underlying mathematics of backpropagation, tensor shapes, and transformer architectures, moving away from high-level APIs like PyTorch/Keras.

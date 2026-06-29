@@ -5,4 +5,4 @@ This folder contains the core implementation of a scalar-valued autograd engine 
 ### Key Concepts Implemented:
 - **Graph Execution & Backpropagation:** Building computational graphs dynamically and tracking derivatives using the chain rule.
 - **Topological Sort:** Implementing ordering algorithms to ensure backward passes execute only when all dependent gradients are resolved.
-- **Exercises Handled**
+- **Exercises Handled:** Gradient derivation, numerical gradient checking, softmax/NLL implementation, and PyTorch gradient verification.
